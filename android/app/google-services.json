@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "994383555259",
+    "project_id": "bikgo-app",
+    "storage_bucket": "bikgo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994383555259:android:1dcc2e2fbf4a625130179e",
+        "android_client_info": {
+          "package_name": "com.SudasSolutions.Bikgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994383555259-qbom8a6nbr8pop8j28801mg1dk8s8vmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SudasSolutions.Bikgo",
+            "certificate_hash": "863758f71ef0bbd17c4d41e3baefcf8a20689354"
+          }
+        },
+        {
+          "client_id": "994383555259-oj2kcmbsunmnkrl985lppop6mlvpg1ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaBIHo7ZXOLGQrgZaqDvnKtz9QZJfOayc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994383555259-oj2kcmbsunmnkrl985lppop6mlvpg1ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
